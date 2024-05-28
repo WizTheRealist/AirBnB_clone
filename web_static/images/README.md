@@ -1,0 +1,1 @@
+WEb Static Image Directory
